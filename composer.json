@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/subversion",
+	"description": "Driver for silverstripe.org/modules SVN caching and download generation.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "subversion", "development"],
+	"authors": [
+	{
+		"name": "Sam Minnée",
+		"email": "sam@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.*"
+	}
+}
